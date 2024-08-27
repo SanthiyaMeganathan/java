@@ -26,6 +26,7 @@ public class switchwithlesscase {
                 System.out.println("Invalid day");
                 break;
             
+                
             
 
                
